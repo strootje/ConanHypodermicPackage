@@ -1,5 +1,5 @@
 # Conan Hypodermic Package
-Find the conan package here: [Hypodermic][bintray]
+<!-- Find the conan package here: [Hypodermic][bintray] -->
 
 ## About
 Uses the official repo from the hypodermic creator to create a conan package.
@@ -8,4 +8,4 @@ Uses the official repo from the hypodermic creator to create a conan package.
 See: [LICENSE.md][license]
 
 [bintray]: https://bintray.com/strootje/conan
-[license]: http://raw.github.com/
+[license]: https://github.com/strootje/conan-hypodermic-package/blob/master/LICENSE.md
