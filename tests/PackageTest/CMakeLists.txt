@@ -1,5 +1,9 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.9)
 project(PackageTest CXX)
+
+# use modern cxx
+set(CMAKE_CXX_STANDARD 17)
+set(CXX_STANDARD TRUE)
 
 set(BASE_DIR ${CMAKE_CURRENT_SOURCE_DIR})
 set(TEST_NAME PackageTests)
