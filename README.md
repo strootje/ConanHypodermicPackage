@@ -5,8 +5,7 @@
 Uses the [official repo][hypodermic] from the hypodermic creator to create a conan package.
 
 ## License
-See: [LICENSE.md][license]
+See LICENSE.md
 
 [hypodermic]: https://github.com/ybainier/Hypodermic
 [bintray]: https://bintray.com/strootje/conan
-[license]: https://github.com/strootje/conan-hypodermic-package/blob/master/LICENSE.md
